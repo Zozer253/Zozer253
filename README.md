@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zozer253
+- 👋 Hi, I’m @Zozer
 - 👀 I’m interested in  programming and cybersecuty i really love python
 - 🌱 I’m currently learning PYTHON programming
 - 💞️ I’m looking to collaborate on  python programming 
